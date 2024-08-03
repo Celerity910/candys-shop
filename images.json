@@ -1,6 +1,15 @@
 {
+   "A Hat in Time":{
+      "icon":"https://i.imgur.com/YtvvQsm.png"
+   },
+   "Action 52":{
+      "icon":"https://i.imgur.com/aIQnKoL.png"
+   },
+   "ActRaiser":{
+      "icon":"https://i.imgur.com/cuUhw5a.png"
+   },
    "Adibou 2":{
-   "icon":"https://i.imgur.com/NQ92U8u.png"
+      "icon":"https://i.imgur.com/NQ92U8u.png"
    },
    "Among Us":{
       "icon":"https://i.imgur.com/gVDhG0z.png"
@@ -8,7 +17,7 @@
    "Animal Crossing":{
       "icon":"https://i.imgur.com/cHUffII.png"
    },
-   "Animaniacs (Genesis)":{
+   "Animaniacs":{
       "icon":"https://i.imgur.com/5Sf4b79.png"
    },
    "ANTONBLAST":{
@@ -51,6 +60,9 @@
    "Call of Duty: World at War":{
       "icon":"https://i.imgur.com/S00X5cs.png"
    },
+   "Capcom vs. SNK 2":{
+      "icon":"https://i.imgur.com/L0FanPh.png"
+   },
    "Castlevania: Aria of Sorrow":{
       "icon":"https://i.imgur.com/0ZhiGbI.png"
    },
@@ -75,6 +87,9 @@
    "Chameleon Twist":{
       "icon":"https://i.imgur.com/f3uC2bq.png"
    },
+   "Chameleon Twist 2":{
+      "icon":"https://i.imgur.com/cadLmyb.png"
+   },
    "Chip's Challenge":{
       "icon":"https://i.imgur.com/kg0xhQj.png"
    },
@@ -93,9 +108,19 @@
    "Consoles and BIOS":{
       "icon":"https://i.imgur.com/4Sa22o4.png"
    },
+   "Corpse Party: BloodCovered":{
+      "icon":"https://i.imgur.com/PoSI2G1.png"
+   },
+   "Crash Bandicoot":{
+      "icon":"https://i.imgur.com/9GnBBkE.png"
+   },
    "Crash Bandicoot 2: Cortex Strikes Back":{
       "icon":"https://i.imgur.com/WiLSdWI.png",
       "short_name": "Crash Bandicoot 2"
+   },
+   "Crash Bandicoot: Warped":{
+      "icon":"https://i.imgur.com/9egDmAp.png",
+      "short_name": "Crash Bandicoot 3"
    },
    "Crash Bandicoot: The Wrath of Cortex":{
       "icon":"https://i.imgur.com/2cPnDBE.png",
@@ -114,6 +139,12 @@
       "icon":"https://i.imgur.com/Zd8xuGt.png",
       "short_name": "Danganronpa 2"
    },
+   "Dark Cloud":{
+      "icon":"https://i.imgur.com/4kZSzUk.png"
+   },
+   "Dark Souls II":{
+      "icon":"https://i.imgur.com/fTA9sgF.png"
+   },
    "Deltarune":{
       "icon":"https://i.imgur.com/xMbDSCy.png"
    },
@@ -123,13 +154,9 @@
    "Diddy Kong Racing":{
       "icon":"https://i.imgur.com/4xmpHHJ.png"
    },
-   "Disney's Aladdin (Capcom)":{
+   "Disney's Aladdin":{
       "icon":"https://i.imgur.com/z8h3fzT.png",
-      "short_name": "Aladdin (Capcom)"
-   },
-   "Disney's Aladdin (Virgin Games)":{
-      "icon":"https://i.imgur.com/CxoWfn4.png",
-      "short_name": "Aladdin (Virgin Games)"
+      "short_name": "Aladdin"
    },
    "Doki Doki Literature Club!":{
       "icon":"https://i.imgur.com/6wlms8M.png"
@@ -167,6 +194,9 @@
    },
    "Double Dragon":{
       "icon":"https://i.imgur.com/UFno90d.png"
+   },
+   "Drakengard":{
+      "icon":"https://i.imgur.com/waFqpsT.png"
    },
    "DuckTales":{
       "icon":"https://i.imgur.com/Lle6c9e.png"
@@ -253,6 +283,16 @@
       "icon":"https://i.imgur.com/1QquzWW.png",
       "short_name": "Harald Hardtand"
    },
+   "Hey You, Pikachu!":{
+      "icon":"https://i.imgur.com/2um3RoP.png"
+   },
+   "Higurashi: When They Cry Kai":{
+      "icon":"https://i.imgur.com/kZzhHjq.png",
+      "short_name": "Higurashi Kai"
+   },
+   "Hotel Dusk: Room 215":{
+      "icon":"https://i.imgur.com/TK6CvDp.png"
+   },
    "Hotel Mario":{
       "icon":"https://i.imgur.com/Nlt3RHU.png"
    },
@@ -266,8 +306,17 @@
       "icon":"https://i.imgur.com/jz3SO5d.png",
       "short_name": "ISS64"
    },
+   "Jets'n'Guns":{
+      "icon":"https://i.imgur.com/4kZJ5T2.png"
+   },
    "Killer Instinct":{
       "icon":"https://i.imgur.com/SbzbJV3.png"
+   },
+   "Killer Instinct 2":{
+      "icon":"https://i.imgur.com/I7yzOaO.png"
+   },
+   "Killing Floor":{
+      "icon":"https://i.imgur.com/Hl534Ro.png"
    },
    "Kingdom Hearts":{
       "icon":"https://i.imgur.com/XtYKfIh.png"
@@ -299,6 +348,12 @@
    "Kirby's Dream Land 3":{
       "icon":"https://i.imgur.com/okpsaf3.png"
    },
+   "Klonoa: Door to Phantomile":{
+      "icon":"https://i.imgur.com/DGpCkMj.png"
+   },
+   "Klonoa 2: Lunatea's Veil":{
+      "icon":"https://i.imgur.com/ugnHRvL.png"
+   },
    "Landstalker: The Treasures of King Nole":{
       "icon":"https://i.imgur.com/kQfxnja.png",
       "short_name": "Landstalker"
@@ -314,6 +369,9 @@
    },
    "Lemmings":{
       "icon":"https://i.imgur.com/igThKZp.png"
+   },
+   "Live A Live":{
+      "icon":"https://i.imgur.com/qWuwIhD.png"
    },
    "Lufia II: Rise of the Sinistrals":{
       "icon":"https://i.imgur.com/6ZNrARi.png",
@@ -336,6 +394,9 @@
    "Mario & Luigi: Superstar Saga":{
       "icon":"https://i.imgur.com/ieO06V8.png"
    },
+   "Mario Hoops 3-on-3":{
+      "icon":"https://i.imgur.com/qNAQEnz.png"
+   },
    "Mario Kart 64":{
       "icon":"https://i.imgur.com/wZW4dP2.png"
    },
@@ -356,6 +417,9 @@
    },
    "Mario Party 2":{
       "icon":"https://i.imgur.com/QiBIem5.png"
+   },
+   "Mario Party 3":{
+      "icon":"https://i.imgur.com/Vs7sElB.png"
    },
    "Mario Party 7":{
       "icon":"https://i.imgur.com/9Ih7ggi.png"
@@ -428,9 +492,13 @@
    "Mickey's Speedway USA":{
       "icon":"https://i.imgur.com/9eEOerA.png"
    },
-   "Mighty Morphin Power Rangers (SNES)":{
+   "Mighty Morphin Power Rangers":{
       "icon":"https://i.imgur.com/BWhPRu9.png",
-      "short_name": "Power Rangers (SNES)"
+      "short_name": "Power Rangers"
+   },
+   "Mighty Morphin Power Rangers: The Fighting Edition":{
+      "icon":"https://i.imgur.com/7Pc4Nf6.png",
+      "short_name": "MMPR Fighting Edition"
    },
    "Mike Tyson's Punch-Out!!":{
       "icon":"https://i.imgur.com/zH5b0xc.png"
@@ -460,8 +528,14 @@
       "icon":"https://i.imgur.com/SCNjpeE.png",
       "short_name": "Mystical Ninja 64"
    },
+   "New Super Mario Bros.":{
+      "icon":"https://i.imgur.com/jFt4AMF.png"
+   },
    "NiGHTS into Dreams...":{
       "icon":"https://i.imgur.com/aZ703oq.png"
+   },
+   "No More Heroes":{
+      "icon":"https://i.imgur.com/4NL1O4o.png"
    },
    "Omori":{
       "icon":"https://i.imgur.com/8X1MVBj.png"
@@ -491,6 +565,9 @@
       "icon":"https://i.imgur.com/JzKJGkr.png",
       "short_name": "Paper Mario: TTYD"
    },
+   "Papers, Please":{
+      "icon":"https://i.imgur.com/Zx9FQqK.png"
+   },
    "Pepsiman":{
       "icon":"https://i.imgur.com/yP6IBqa.png"
    },
@@ -507,10 +584,22 @@
       "icon":"https://i.imgur.com/47qHHu4.png"
    },
    "Phoenix Wright: Ace Attorney":{
-      "icon":"https://i.imgur.com/Zj0YCtN.png"
+      "icon":"https://i.imgur.com/Zj0YCtN.png",
+      "short_name": "Ace Attorney"
+   },
+   "Phoenix Wright: Ace Attorney - Justice for All":{
+      "icon":"https://i.imgur.com/7Dr6MWk.png",
+      "short_name": "Ace Attorney 2"
+   },
+   "Phoenix Wright: Ace Attorney - Trials and Tribulations":{
+      "icon":"https://i.imgur.com/18kzRwk.png",
+      "short_name": "Ace Attorney 3"
    },
    "Pikmin 2":{
       "icon":"https://i.imgur.com/6VaO7Rz.png"
+   },
+   "Pilotwings 64":{
+      "icon":"https://i.imgur.com/Eq87wTf.png"
    },
    "Pizza Tower":{
       "icon":"https://i.imgur.com/78PxNhd.png"
@@ -521,11 +610,18 @@
    "Plants vs. Zombies":{
       "icon":"https://i.imgur.com/NAPmEg2.png"
    },
+   "Plok":{
+      "icon":"https://i.imgur.com/Aid4B9T.png"
+   },
    "Pokémon Black & White":{
       "icon":"https://i.imgur.com/2ztGqSb.png"
    },
    "Pokémon Black 2 & White 2":{
       "icon":"https://i.imgur.com/c5WIW1K.png"
+   },
+   "Pokémon Card GB2: Great Rocket-Dan Sanjo":{
+      "icon":"https://i.imgur.com/h8Su4TH.png",
+      "short_name": "Pokémon TCG 2"
    },
    "Pokémon Colosseum":{
       "icon":"https://i.imgur.com/c9o6GNm.png"
@@ -560,6 +656,12 @@
    },
    "Pokémon Stadium 2":{
       "icon":"https://i.imgur.com/xSZxb2f.png"
+   },
+   "Pokémon Trading Card Game":{
+      "icon":"https://i.imgur.com/N7NrDJb.png"
+   },
+   "Pokémon X & Y":{
+      "icon":"https://i.imgur.com/f3e6U0V.png"
    },
    "Pokémon XD: Gale of Darkness":{
       "icon":"https://i.imgur.com/szZ6kYe.png"
@@ -596,8 +698,14 @@
    "Ristar":{
       "icon":"https://i.imgur.com/EQEP7Kq.png"
    },
+   "Rogue Galaxy":{
+      "icon":"https://i.imgur.com/01LARG0.png"
+   },
    "Run Saber":{
       "icon":"https://i.imgur.com/87FYQiK.png"
+   },
+   "Quest 64":{
+      "icon":"https://i.imgur.com/hX5vQZE.png"
    },
    "Rush 2: Extreme Racing USA":{
       "icon":"https://i.imgur.com/Bz7gJeO.png"
@@ -671,10 +779,16 @@
       "icon":"https://i.imgur.com/muIG2yP.png"
    },
    "Sonic Triple Trouble":{
-   "icon":"https://i.imgur.com/PG6sCj1.png"
+      "icon":"https://i.imgur.com/PG6sCj1.png"
+   },
+   "Soulcalibur II":{
+      "icon":"https://i.imgur.com/SG2MVQu.png"
    },
    "Spectrobes":{
       "icon":"https://i.imgur.com/noTHiOv.png"
+   },
+   "Spyro the Dragon":{
+      "icon":"https://i.imgur.com/xZcFnUa.png"
    },
    "Spyro 2: Ripto's Rage!":{
       "icon":"https://i.imgur.com/UtaueTi.png"
@@ -736,6 +850,9 @@
    "Super Mario Land 2: 6 Golden Coins":{
       "icon":"https://i.imgur.com/yNrCPhm.png",
       "short_name": "Super Mario Land 2"
+   },
+   "Super Mario Maker":{
+      "icon":"https://i.imgur.com/tZOfhAo.png"
    },
    "Super Mario Odyssey":{
       "icon":"https://i.imgur.com/D9KLF7H.png"
@@ -864,6 +981,10 @@
       "icon":"https://i.imgur.com/k7pDWwJ.png",
       "short_name": "Touhou 8"
    },
+   "Touhou Fuujinroku ~ Mountain of Faith":{
+      "icon":"https://i.imgur.com/j254w8T.png",
+      "short_name": "Touhou 10"
+   },
    "Touhou Gensoukyou ~ Lotus Land Story":{
       "icon":"https://i.imgur.com/QRTgB7g.png",
       "short_name": "Touhou 4"
@@ -908,9 +1029,17 @@
       "icon":"https://i.imgur.com/78T3vVI.png",
       "short_name":"Touhou 12"
    },
+   "Touhou Shinreibyou ~ Ten Desires":{
+      "icon":"https://i.imgur.com/33ciPgY.png",
+      "short_name":"Touhou 13"
+   },
    "Touhou Tenkuushou ~ Hidden Star in Four Seasons":{
       "icon":"https://i.imgur.com/nQEnuoy.png",
       "short_name": "Touhou 16"
+   },
+   "Touhou Youyoumu ~ Perfect Cherry Blossom":{
+      "icon":"https://i.imgur.com/UsSPP1a.png",
+      "short_name": "Touhou 7"
    },
    "U.N. Squadron":{
       "icon":"https://i.imgur.com/lEe6LJM.png"
@@ -962,8 +1091,14 @@
    "Yoshi's Story":{
       "icon":"https://i.imgur.com/pdEdjmH.png"
    },
+   "Yu-Gi-Oh! Dark Duel Stories":{
+      "icon":"https://i.imgur.com/4ah5HB6.png"
+   },
    "Yu-Gi-Oh! Forbidden Memories":{
       "icon":"https://i.imgur.com/i6flDcS.png"
+   },
+   "Yu-Gi-Oh! The Sacred Cards":{
+      "icon":"https://i.imgur.com/kCYP4WY.png"
    },
    "Zelda II: The Adventure of Link":{
       "icon":"https://i.imgur.com/s1iSdLC.png",
